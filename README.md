@@ -1,4 +1,4 @@
-# Hi, I'm Blue 💙
+# Hi, I'm Azul 💙
 
 Software Engineering student currently exploring the world of technology one step at a time.
 
